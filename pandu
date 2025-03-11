@@ -1,0 +1,7 @@
+public class padma{
+int x=10;
+int y=30;
+public void m1(){
+System.out.println("hello");
+}
+}
